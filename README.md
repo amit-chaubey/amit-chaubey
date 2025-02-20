@@ -40,7 +40,7 @@
 - Backend: Node.js, Python, Express, SQL
 - Cloud: AWS, Docker, Kubernetes
 - AI/ML: TensorFlow, OpenAI API integration, Langchain, Fine-Tune LLMs, Agents
-- Databases: MongoDB, PostgreSQL, Pinecone
+- Databases: MongoDB, PostgreSQL, Pinecone, Vector-Database, Neo4j (Graph-Database)
 
 🌱 Currently expanding my knowledge in AI/ML integration and cloud architecture.
 
