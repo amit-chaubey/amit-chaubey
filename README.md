@@ -111,8 +111,8 @@ All projects are focused on making education more accessible and engaging throug
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-chaubey&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-chaubey&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-chaubey&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-chaubey&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Top Languages"/>
 </div>
 
 <!--
