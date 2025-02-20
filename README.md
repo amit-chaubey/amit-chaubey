@@ -39,10 +39,14 @@
 - Frontend: React.js, Next.js, TypeScript
 - Backend: Node.js, Python, Express, SQL
 - Cloud: AWS, Docker, Kubernetes
-- AI/ML: TensorFlow, OpenAI API integration, Langchain, Fine-Tune LLMs, Agents
-- Databases: MongoDB, PostgreSQL, Pinecone, Vector-Database, Neo4j (Graph-Database)
+- AI/ML: TensorFlow, LangChain, LlamaIndex, MLflow, LangGraph
+- LLMs: OpenAI, Anthropic, HuggingFace, LLaMA, Mistral
+- Databases: MongoDB, PostgreSQL
+- Vector Stores: Pinecone, Weaviate, Chroma
+- Graph Database: Neo4j
+- AI Tools: AutoGen, CrewAI, Agent Frameworks
 
-🌱 Currently expanding my knowledge in AI/ML integration and cloud architecture.
+🌱 Currently focusing on building autonomous AI agents and optimizing GenAI workflows for enterprise applications.
 
 ### Projects & Contributions
 
@@ -108,6 +112,7 @@ All projects are focused on making education more accessible and engaging throug
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit-chaubey&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-chaubey&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 <!--
