@@ -17,7 +17,7 @@
 🌱 Master of Science (MSc) in Artificial Intelligence
 - University of Liverpool, UK
 - Graduated with Distinction
-- Focus areas: Machine Learning, Natural Language Processing, and AI Applications, Reinforcement learning
+- Focus areas: Machine Learning, Natural Language Processing, Applied AI, Reinforcement learning, Bio-Inspired Algorithms, Advance Mathematics for AI, Databases, Python. 
 
 🎓 Bachelor of Technology (B.Tech)
 - SRM Institute of Science and Technology, Chennai
@@ -85,9 +85,9 @@ A collection of impactful educational tools and applications:
 
 All projects are focused on making education more accessible and engaging through technology.
 
-### Technical Writing
+### Technical Writing & Teaching 
 
-✍️ I regularly write about:
+✍️ I regularly write and Teach about:
 - AI Solutions Best Practices
 - Cloud Architecture/K8s/Docker
 - AI in Web Applications
