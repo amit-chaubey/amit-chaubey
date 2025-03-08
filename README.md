@@ -100,7 +100,7 @@ All projects are focused on making education more accessible and engaging throug
   <a href="https://www.linkedin.com/in/amit-choubey-51296960/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://amit-chaubey.github.io/Resume-Portfolio/">
+  <a href="https://www.amitkatyayana.com/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto: amit.katyayana@gmail.com">
