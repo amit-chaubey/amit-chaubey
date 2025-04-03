@@ -83,16 +83,7 @@ A collection of impactful educational tools and applications:
   - Reading comprehension assistant
   - Math problem solver with step-by-step explanations
 
-All projects are focused on making education more accessible and engaging through technology.
 
-### Technical Writing & Teaching 
-
-✍️ I regularly write and Teach about:
-- AI Solutions Best Practices
-- Cloud Architecture/K8s/Docker
-- AI in Web Applications
-- Developer Tools and Productivity
-- Maths, Physics & AI.
 
 ### Connect
 
