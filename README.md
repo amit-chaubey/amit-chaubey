@@ -11,7 +11,7 @@ Crafting scalable web apps and AI-powered solutions to make tech accessible and 
 
 🎓 **Background**:  
 - **MSc in AI** (Distinction, University of Liverpool) – ML, NLP, Reinforcement Learning  
-- **B.Tech in Electronics** (First Class Honours, SRM Institute)  
+- **B.Tech in Electronics** (First Class Honours, SRMIST, Chennai)  
 - Award-winning research in RAG and AI for education  
 
 🔥 **Featured Projects**:  
